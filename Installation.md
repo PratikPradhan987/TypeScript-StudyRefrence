@@ -1,4 +1,4 @@
 # Project Title
-  Npm i -g typescript
-  Tsc -v 
-  tsc --help
+  |Npm i -g typescript
+  |Tsc -v 
+  |tsc --help

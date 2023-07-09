@@ -1,3 +1,3 @@
 # TypeScript-StudyRefrence
 
-[first](Installation.md)
+## [ Installation](Installation.md)
